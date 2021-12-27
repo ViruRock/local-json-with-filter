@@ -15,7 +15,7 @@ Widget showText({
     style: TextStyle(
         color: color,
         fontSize: fontSize ?? 12.0,
-        fontWeight: fontWeight ?? FontWeight.w100),
+        fontWeight: fontWeight ?? FontWeight.w900),
   );
 }
 
